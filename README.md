@@ -1,2 +1,2 @@
 My first readme
-i love README
+I love readme
